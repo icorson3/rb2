@@ -1,6 +1,8 @@
 ```
-As a user
+As a user,
 
-I can merge this user story
+When I visit the student show,
+
+I see one student, including their name and grade.
 
 ```
