@@ -1,4 +1,4 @@
-As a visitor,
+As a user,
 
 When I visit the root page,
 
